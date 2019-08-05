@@ -1,0 +1,13 @@
+1. 네트워크 사용량
+ - adb shell cat /proc/net/xt_qtaguid/stats
+ - adb shell cat /proc/net/xt_qtaguid/stats > C:\Test\Outlaw\network.txt
+
+
+2. 패키지 네임 확인
+ - adb shell pm list packages 앱 네임
+
+
+3. UID 확인
+ - adb shell dumpsys package 앱 패키지 네임
+
+

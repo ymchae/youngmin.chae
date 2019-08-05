@@ -1,0 +1,10 @@
+package name
+ - com.supercell.brawlstars
+
+
+User ID
+ - 10362
+
+
+
+
